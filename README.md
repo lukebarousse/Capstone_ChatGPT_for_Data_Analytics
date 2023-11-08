@@ -21,5 +21,6 @@ $$
 $$
 
 ### Results for Top 3 Jobs
-Below, the top jobs in data science are displayed and showcasing that Python and SQL are two of the most optimal skills across these roles.
+Below, the top jobs in data science are displayed and showcasing that Python and SQL are two of the most optimal skills across these roles.  
+
 ![](images/optimal_skills_3.png)
