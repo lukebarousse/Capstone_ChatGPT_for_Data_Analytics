@@ -20,6 +20,6 @@ $$
 \text{Skill Multiplier} = \text{Normalized Skill Count} \times \text{Normalized Median Salary}
 $$
 
-### Skill Multiplier Formula
-Below, the top 3 jobs in data science are displayed and it's apparent that Python and SQL are the most optimal across these roles.
+### Results for Top 3 Jobs
+Below, the top jobs in data science are displayed and showcasing that Python and SQL are two of the most optimal skills across these roles.
 ![](images/optimal_skills_3.png)
