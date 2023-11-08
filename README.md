@@ -100,7 +100,7 @@ The data underscores the importance of a strong foundation in data querying and 
 This visualization highlights the potential for high earnings in the data field, especially with advanced expertise or roles. 🚀💼
 ![](images/salary_year.png)
 
-# Missing Salary Data
+### Missing Salary Data
 - A striking trend: the majority of countries show less than **10%** of job postings include an annual salary in a job postings.
 - Outliers like Brunei and the Bahamas are rare, with Brunei's job postings revealing salary over **30%** of the time and the Bahamas above **25%**.
 - The United States sits just above **5%**, but this still means around **95%** of job listings leave applicants guessing. 🤔💡
@@ -108,7 +108,7 @@ This visualization highlights the potential for high earnings in the data field,
 The data speaks volumes about the global opacity in salary information, with most job seekers left in the dark. 📉🌐
 ![](images/salary_null.png)
 
-# Median Salaries for Jobs
+### Median Salaries for Jobs
 
 - **Senior Data Engineer** leads the pack with a median annual salary well above **$14
 0,000**.
@@ -120,7 +120,7 @@ This bar chart illustrates the premium placed on senior roles and specialized en
 
 ![](images/salary_jobs.png)
 
-# Median Salaries for Skills
+### Median Salaries for Skills
 
 - **Spark** and **Java** are at the top, commanding salaries near the **$140,000** mark.
 - **Snowflake** skills also yield a high median salary, despite fewer job postings (3382).
@@ -131,9 +131,7 @@ The bar chart clearly aligns high median salaries with specialized tech skills, 
 
 ![](images/salary_skill.png)
 
-## 🌟 Final Results
-
-## Optimal Skills for Data Roles 🔝📊
+## 🔝📊 Final Results: Optimal Skills for Data Roles 
 
 ### Programming Languages 🧠💻
 - **Python**: Dominates as a high-impact skill across nearly all data-centric roles.
