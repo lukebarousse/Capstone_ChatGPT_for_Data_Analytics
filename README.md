@@ -1,5 +1,7 @@
 # What are the most optimal skills for a data nerd? 🤓
-I was able to uncover the most optimal skills to learn as a data nerd based on real-time data science job posting data from [datanerd.tech](https://www.datanerd.tech). 
+This project was built for my course, [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt), to uncover the most optimal skills to learn as a data nerd based on real-time data science job posting data.
+
+**Data Source:** [datanerd.tech](https://www.datanerd.tech)
 
 **🤖 NOTE:** This entire project was built using ChatGPT from generating the code for visualizations all the way to producing the text for this markdown file.
 
@@ -155,3 +157,5 @@ The bar chart clearly aligns high median salaries with specialized tech skills, 
 Overall, the trend suggests a high value placed on versatile programming skills, proficiency in major cloud services, ability to use advanced visualization tools for insights, and a blend of traditional and modern data processing abilities. Each role requires a unique combination of these skills to meet industry demands and maximize salary potential. 🌟📋
 
 ![](images/skill_mult.png)
+
+Data Source: [datanerd.tech](https://www.datanerd.tech)
