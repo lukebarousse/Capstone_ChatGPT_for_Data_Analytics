@@ -3,7 +3,7 @@ This project was built for my course, [ChatGPT for Data Analytics](https://www.l
 
 **Data Source:** [datanerd.tech](https://www.datanerd.tech)
 
-**🤖 NOTE:** This entire project was built using ChatGPT from generating the code for visualizations all the way to producing the text for this markdown file.
+**AI Note:** This entire project was built using ChatGPT, from generating the code for visualizations to producing the text for this markdown file.
 
 ## Results
 The most optimal skills were determined by developing a metric, termed "Skill Multiplier", that aggregates both the normalized demand and normalized salary of a given skill for a job title into a single metric.
